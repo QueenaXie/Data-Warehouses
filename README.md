@@ -1,5 +1,3 @@
-# Data-Warehouses
-
 ##What is Song Play Analysis?
 It creates a database schema and ETL pipeline for this analysis. 
 It be able to test your database and ETL pipeline by running queries 
